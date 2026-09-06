@@ -26,18 +26,3 @@
 
 ## 💻 Code Implementation Payload
 
-```javascript
-function executeDurbanDateProtocol() {
-    const pilot = "Alexsis Jamie Govinden";
-    const status = "Cleared for Visual Approach";
-    
-    while(flightDeckActive) {
-        infuseCoffeeAndCoastalViews();
-        deliverCardTricks();
-        consumeDonutsAndIceCream();
-        if (heartRate > medicalThreshold) {
-            fallDeeperInLove();
-        }
-    }
-}
-executeDurbanDateProtocol();
