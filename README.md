@@ -24,5 +24,4 @@
 
 ---
 
-## 💻 Code Implementation Payload
 
